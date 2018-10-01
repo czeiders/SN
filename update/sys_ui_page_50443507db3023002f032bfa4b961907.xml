@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_page">
+    <sys_ui_page action="INSERT_OR_UPDATE">
+        <category>general</category>
+        <client_script/>
+        <description/>
+        <direct>false</direct>
+        <endpoint>x_130971_cz_test_a_hello.do</endpoint>
+        <html><![CDATA[<?xml version="1.0" encoding="utf-8" ?>
+<j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null">
+Hello!
+</j:jelly>]]></html>
+        <name>hello</name>
+        <processing_script/>
+        <sys_class_name>sys_ui_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-01 17:33:44</sys_created_on>
+        <sys_id>50443507db3023002f032bfa4b961907</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>hello</sys_name>
+        <sys_package display_value="CZ Test App" source="x_130971_cz_test_a">f404bd83db3023002f032bfa4b9619b7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CZ Test App">f404bd83db3023002f032bfa4b9619b7</sys_scope>
+        <sys_update_name>sys_ui_page_50443507db3023002f032bfa4b961907</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-01 17:33:44</sys_updated_on>
+    </sys_ui_page>
+</record_update>
